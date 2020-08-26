@@ -29,8 +29,8 @@ Premine	|	1,850,000	|
 
 
 <h1>Node Server</h1>
--<Br>
+IP: node.hi.in.th:9955<Br>
 
 
 <h1>Block Explorer</h1>
--
+http://explorer.hi.in.th
