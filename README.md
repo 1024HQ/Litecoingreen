@@ -8,6 +8,8 @@ markerz194@gmail.com
 
 
 <h1>Specification</h1>
+ข้าพเจ้าไม่มีส่วนเกี่ยวข้องใด ๆ หลังจากนี้ โดยสร้างเพื่อให้ทุกคนศึกษาระบบ Blockchain cryptocurrency เท่านั้น
+หากมีผู้ใดนำไปใช้ผิดวัตถุประสงค์ หากมีการนำไปใช้สร้างมูลค่า ข้าพเจ้าไม่มีเกี่ยวข้องใด ๆ ทั้งสิ้น :)
 
 <h3>https://hi.in.th/</h3>
 
@@ -21,7 +23,7 @@ Last PoW Block	|	840,000	|
 RPC Port	|	9332	|
 P2P Port	|	9955	|
 Algorithm	|	Scrypt	|
-Transaction confirmations	|	2 blocks	|
+Transaction confirmations	|	6 blocks	|
 Mining confirmations	|	101 blocks	|
 Difficulty Retarget	|	1 minutes	|
 Supply	|	84,000,000	|
