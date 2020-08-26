@@ -25,7 +25,7 @@ P2P Port	|	9955	|
 Algorithm	|	Scrypt	|
 Transaction confirmations	|	6 blocks	|
 Mining confirmations	|	101 blocks	|
-Difficulty Retarget	|	1 minutes	|
+Difficulty Retarget	|	10 minutes	|
 Supply	|	84,000,000	|
 Premine	|	1,850,000	|
 
