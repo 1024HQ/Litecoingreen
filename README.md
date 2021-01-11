@@ -3,7 +3,6 @@
 <img src="https://www.img.in.th/images/6da7e6dd18b75e5b6cbc3327172697b9.png" width="120px" height="120px">
 blockchain Scrypt[PoW]  Faster transaction.
 <br>
-markerz194@gmail.com
 
 
 <h1>Specification</h1>
